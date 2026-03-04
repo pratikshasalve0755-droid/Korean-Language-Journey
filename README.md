@@ -32,5 +32,10 @@ I am learning Korean from Beginner to Advanced level with daily consistency.
   - Practiced 7 basic batchim sounds
   - Reading simple batchim words
 
+- **Day 3:**
+  - Learned 이에요 / 예요 / 입니다
+  - Made basic self-introduction sentences
+  - Practiced question form
+
 
 
