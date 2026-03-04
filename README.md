@@ -22,12 +22,15 @@ I am learning Korean from Beginner to Advanced level with daily consistency.
 
 # 📊 Progress Tracker
 
-## Day 1
-- Learned Hangul vowels
-- Learned Hangul consonants
-- Practiced combinations
-
----
+- **Day 1:**
+  - Learned Hangul vowels
+  - Learned Hangul consonants
+  - Practiced combinations
+  
+- **Day 2:**
+  - Learned Batchim (final consonants)
+  - Practiced 7 basic batchim sounds
+  - Reading simple batchim words
 
 
 
