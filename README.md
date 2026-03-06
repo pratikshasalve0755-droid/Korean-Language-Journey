@@ -37,5 +37,11 @@ I am learning Korean from Beginner to Advanced level with daily consistency.
   - Made basic self-introduction sentences
   - Practiced question form
 
+- **Day 4:**
+  - Learned demonstratives (이, 그, 저)
+  - Practiced question form 뭐예요
+  - Learned 10 vocabulary words
+  
+
 
 
