@@ -42,6 +42,10 @@ I am learning Korean from Beginner to Advanced level with daily consistency.
   - Practiced question form 뭐예요
   - Learned 10 vocabulary words
   
-
+- **Day 5:**
+  - Learned basic Korean verbs
+  - Practiced present tense (아요 / 어요)
+  - Wrote simple sentences with verbs
+  
 
 
