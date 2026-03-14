@@ -47,5 +47,11 @@ I am learning Korean from Beginner to Advanced level with daily consistency.
   - Practiced present tense (아요 / 어요)
   - Wrote simple sentences with verbs
   
+- **Day 6:**
+  - Learned particles 을 / 를 / 에
+  - Practiced object and location sentences
+  - Added vocabulary with pronunciation
+  - Completed interactive quiz
+ 
 
 

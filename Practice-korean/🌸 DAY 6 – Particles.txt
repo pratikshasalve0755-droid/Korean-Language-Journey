@@ -6,11 +6,11 @@ PART 1 – Vocabulary Writing
 
 Write 5 times each (with pronunciation):
 
-밥 = rice (bap)
-물 = water (mul)
-학교 = school (hak-gyo)
-커피 = coffee (keo-pi)
-영화 = movie (yeong-hwa)
+밥 = rice (bap)                      = 밥 , 밥 , 밥 , 밥 , 밥 .
+물 = water (mul)                     = 물 , 물 , 물 , 물 , 물 .
+학교 = school (hak-gyo)              = 학교 , 학교 , 학교 , 학교 .
+커피 = coffee (keo-pi)               = 커피 , 커피 , 커피 , 커피 .
+영화 = movie (yeong-hwa)             = 영화 , 영화 , 영화 , 영화 .
 
 ---------------------------------
 PART 2 – Particle Practice
@@ -31,29 +31,29 @@ PART 3 – Sentence Writing
 
 Complete sentences:
 
-1) 저는 밥을 ______.
-2) 저는 물을 ______.
-3) 저는 학교에 ______.
-4) 저는 영화를 ______.
-5) 저는 커피를 ______.
+1) 저는 밥을 ___먹어요___.
+2) 저는 물을 ___마셔요___.
+3) 저는 학교에 ___가요___.
+4) 저는 영화를 ___봐요___.
+5) 저는 커피를 ___마셔요___.
 
 
 ---------------------------------
 PART 4 – Reading Practice
 ---------------------------------
 
-Type and read 5 times:
+Type and read 2 times:
 
-저는 밥을 먹어요.
+저는 밥을 먹어요.                    = 저는 밥을 먹어요  , 저는 밥을 먹어요 .
 (jeo-neun bap-eul meo-geo-yo)
 
-저는 물을 마셔요.
+저는 물을 마셔요.                    = 저는 물을 마셔요 , 저는 물을 마셔요 .
 (jeo-neun mul-eul ma-syeo-yo)
 
-저는 학교에 가요.
+저는 학교에 가요.                    = 저는 학교에 가요 , 저는 학교에 가요 .
 (jeo-neun hak-gyo-e ga-yo)
 
-저는 영화를 봐요.
+저는 영화를 봐요.                    = 저는 영화를 봐요 , 저는 영화를 봐요 .
 (jeo-neun yeong-hwa-reul bwa-yo)
 
 
@@ -63,11 +63,11 @@ PART 5 – Vocabulary Expansion
 
 Write 5 times each:
 
-친구 = friend (chin-gu)
-도서관 = library (do-seo-gwan)
-컴퓨터 = computer (keom-pyu-teo)
-오늘 = today (o-neul)
-시간 = time (si-gan)
+친구 = friend (chin-gu)                      = 친구 , 친구 , 친구 , 친구 , 친구 .
+도서관 = library (do-seo-gwan)               = 도서관 , 도서관 , 도서관 , 도서관 .
+컴퓨터 = computer (keom-pyu-teo)             = 컴퓨터 , 컴퓨터 , 컴퓨터 , 컴퓨터 .
+오늘 = today (o-neul)                       =  오늘 , 오늘 , 오늘 , 오늘 , 오늘 .
+시간 = time (si-gan)                        =  시간 , 시간 , 시간 , 시간 , 시간 .
 
 
 ---------------------------------
@@ -76,17 +76,24 @@ PART 6 – Interactive Quiz
 
 Answer:
 
-1) What particle is used for objects?
+1) What particle is used for objects? -> 를 , 을
 
 2) Which is correct?
 밥을 먹어요
-밥에 먹어요
+밥에 먹어요               ->  밥을 먹어요 .
 
 3) Translate:
-"I drink coffee"
+"I drink coffee"        ->  저는 커피를 마셔요 .
 
 4) Fill blank:
-저는 학교___ 가요
+저는 학교___ 가요         ->   저는 학교에 가요
 
 5) Translate:
-"I watch a movie"
+"I watch a movie"       ->   저는 영화를 봐요 .
+
+
+** 노터 :-  Korean uses two object particles:
+
+Particle |	When Used
+을	    =    after a consonant (받침)
+를	    =    after a vowel
