@@ -52,6 +52,13 @@ I am learning Korean from Beginner to Advanced level with daily consistency.
   - Practiced object and location sentences
   - Added vocabulary with pronunciation
   - Completed interactive quiz
+
+- **Day 7:**
+  - Learned topic particle 은 / 는
+  - Practiced topic sentences
+  - Learned 10 verbs
+  - Completed PyCharm practice and quiz
+
  
 
 
