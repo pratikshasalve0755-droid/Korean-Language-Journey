@@ -59,6 +59,12 @@ I am learning Korean from Beginner to Advanced level with daily consistency.
   - Learned 10 verbs
   - Completed PyCharm practice and quiz
 
+- **Day 8:**
+  - Learned time words (오늘, 내일, 어제)
+  - Practiced daily routine sentences
+  - Learned 5 new vocabulary words
+  
+
  
 
 
