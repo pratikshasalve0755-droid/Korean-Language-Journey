@@ -63,6 +63,12 @@ I am learning Korean from Beginner to Advanced level with daily consistency.
   - Learned time words (오늘, 내일, 어제)
   - Practiced daily routine sentences
   - Learned 5 new vocabulary words
+
+- **Day 9:**
+  - Learned 있어요 / 없어요 (have / don’t have)
+  - Practiced subject particle 이 / 가
+  - Built basic conversation sentences
+  - Completed quiz
   
 
  
