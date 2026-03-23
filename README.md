@@ -69,8 +69,11 @@ I am learning Korean from Beginner to Advanced level with daily consistency.
   - Practiced subject particle 이 / 가
   - Built basic conversation sentences
   - Completed quiz
-  
 
+- **Day 10:**
+  - Learned question words (뭐, 어디, 누구)
+  - Practiced asking questions
+  - Built basic conversation patterns
  
 
 
