@@ -74,6 +74,14 @@ I am learning Korean from Beginner to Advanced level with daily consistency.
   - Learned question words (뭐, 어디, 누구)
   - Practiced asking questions
   - Built basic conversation patterns
+
+- **Day 11:**
+  - Learned past tense (았어요 / 었어요)
+  - Practiced converting verbs to past
+  - Built past tense sentences
+  - Completed advanced exercises
+
+
  
 
 
