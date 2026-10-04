@@ -1,0 +1,115 @@
+========================================
+KOREAN LANGUAGE JOURNEY
+DAY 01 — HANGUL FOUNDATION
+========================================
+
+GOAL:
+Learn and recognize basic Korean vowels, consonants,
+and syllable blocks.
+
+----------------------------------------
+1. BASIC VOWELS
+----------------------------------------
+
+ㅏ = a             ,  ㅏ , ㅏ .
+ㅑ = ya            ,  ㅑ , ㅑ .
+ㅓ = eo            ,  ㅓ , ㅓ .
+ㅕ = yeo           ,  ㅕ , ㅕ .
+ㅗ = o             ,  ㅗ , ㅗ .
+ㅛ = yo            ,  ㅛ , ㅛ .
+ㅜ = u             ,  ㅜ , ㅜ .
+ㅠ = yu            ,  ㅠ , ㅠ .
+ㅡ = eu            ,  ㅡ , ㅡ .
+ㅣ = i             ,  ㅣ , ㅣ .
+
+---------------------------------------------
+2. BASIC CONSONANTS
+---------------------------------------------
+
+ㄱ = g/k                       ,  ㄱ = g/k
+ㄴ = n                         ,  ㄴ = n
+ㄷ = d/t                       ,  ㄷ = d
+ㄹ = r/l                       ,  ㄹ = r/l
+ㅁ = m                         ,  ㅁ = m
+ㅂ = b/p                       ,  ㅂ = b
+ㅅ = s                         ,  ㅅ = s
+ㅇ = silent at beginning /     ,  ㅇ = ng
+     ng at end
+ㅈ = j                         ,  ㅈ = j
+ㅊ = ch                        ,  ㅊ = ch
+ㅋ = k                         ,  ㅋ = k
+ㅌ = t                         ,  ㅌ = t
+ㅍ = p                         ,  ㅍ = p
+ㅎ = h                         ,  ㅎ = h
+
+----------------------------------------
+3. SYLLABLE BLOCK
+----------------------------------------
+
+Korean letters are grouped into syllable blocks.
+
+Example:
+
+ㅎ + ㅏ + ㄴ = 한      ㅎ  + ㅏ + ㄴ = 한
+
+ㄱ + ㅡ + ㄹ = 글      ㄱ  + ㅡ + ㄹ = 글
+
+한글 = Hangul         한글 = Hangul
+
+----------------------------------------
+4. IMPORTANT RULE
+----------------------------------------
+
+Do NOT write Korean letters in a horizontal
+English-style sequence.
+
+Build Korean syllable blocks.
+
+Example:
+
+ㅎ + ㅏ + ㄴ = 한  , 한  , 한  , 한 .
+
+ㄱ + ㅏ = 가 = 가  , 가  , 가  , 가 .
+
+ㄴ + ㅏ = 나 = 나  , 나  , 나  , 나 .
+
+----------------------------------------
+5. EXAMPLES
+----------------------------------------
+
+가  =  가 , 가 , 가 , 가 , 가 .
+나  =  나 , 나 , 나 , 나 , 나 .
+다  =  다 , 다 , 다 , 다 , 다 .
+라  =  라 , 라 , 라 , 라 , 라 .
+마  =  마 , 마 , 마 , 마 , 마 .
+바  =  바 , 바 , 바 , 바 , 바 .
+사  =  사 , 사 , 사 , 사 , 사 .
+아  =  아 , 아 , 아 , 아 , 아 .
+자  =  자 , 자 , 자 , 자 , 자 .
+차  =  차 , 차 , 차 , 차 , 차 .
+카  =  카 , 카 , 카 , 카 , 카 .
+타  =  타 , 타 , 타 , 타 , 타 .
+파  =  파 , 파 , 파 , 파 , 파 .
+하  =  하 , 하 , 하 , 하 , 하 .
+
+----------------------------------------
+6. WORDS TO REMEMBER
+----------------------------------------
+
+한국 = Hanguk = Korea
+한글 = Hangeul = Korean writing system
+
+----------------------------------------
+7. DAY 1 TARGET
+----------------------------------------
+
+I am able to:
+
+[✅] Recognize basic vowels
+[✅] Recognize basic consonants
+[✅] Type Korean characters
+[✅] Combine consonants and vowels
+[✅] Read simple syllable blocks
+[✅] Understand how 한글 is constructed
+[✅] Type 한국
+[✅] Type 한글

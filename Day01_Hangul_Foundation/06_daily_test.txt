@@ -1,0 +1,126 @@
+========================================
+DAY 01 — DAILY TEST
+========================================
+
+RULE:
+Do not look at your notes while answering.
+
+========================================
+PART A — VOWELS
+========================================
+
+Write the Korean vowels:
+
+a = ㅏ
+
+ya = ㅑ
+
+eo = ㅓ
+
+yeo = ㅕ
+
+o = ㅗ
+
+yo = ㅛ
+
+u = ㅜ
+
+yu = ㅠ
+
+eu = ㅡ
+
+i = ㅣ
+
+
+========================================
+PART B — CONSONANTS
+========================================
+
+Write the Korean consonant:
+
+n = ㄴ
+
+m = ㅁ
+
+s = ㅅ
+
+h = ㅎ
+
+j = ㅈ
+
+ch = ㅊ
+
+k = ㄱ
+
+t = ㅌ
+
+p = ㅍ
+
+
+========================================
+PART C — BUILD THE SYLLABLE
+========================================
+
+1. ㄱ + ㅏ =  가 .
+
+2. ㄴ + ㅏ =  나 .
+
+3. ㄷ + ㅏ =  다 .
+
+4. ㅁ + ㅏ =  마 .
+
+5. ㅂ + ㅏ =  바 .
+
+6. ㅅ + ㅏ =  사 .
+
+7. ㅈ + ㅏ =  자 .
+
+8. ㅎ + ㅏ =  하 .
+
+
+========================================
+PART D — WORDS
+========================================
+
+Korea: 한국
+
+Korean writing system: 한글
+
+========================================
+PART E — RECOGNITION
+========================================
+
+What is this? 한국
+
+Answer: Korea
+
+What is this? 한글
+
+Answer: Korean writing system
+
+
+========================================
+PART F — CREATE
+========================================
+
+Create 5 Korean syllable blocks.
+
+
+1. 준
+2. 석
+3. 민
+4. 죽
+5. 박
+
+
+========================================
+PART G — EXPLAIN
+========================================
+
+Without looking at your notes:
+
+What is a Korean syllable block?
+
+Write your answer:
+
+--> The Korean Syllable block is the  group of korean alphabet  that join to get one  single sound of the that syllable.
