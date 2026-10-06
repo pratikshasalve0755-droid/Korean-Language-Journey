@@ -1,0 +1,233 @@
+========================================
+KOREAN LANGUAGE JOURNEY
+DAY 02 — BATCHIM (받침)
+========================================
+
+GOAL:
+Understand and recognize Batchim (받침),
+the final consonant in a Korean syllable block.
+
+----------------------------------------
+1. WHAT IS BATCHIM?
+----------------------------------------
+
+받침 = Batchim
+
+Batchim is the consonant placed at the
+bottom of a Korean syllable block.
+
+Example: 각
+
+ㄱ + ㅏ + ㄱ = 각
+
+The last ㄱ is the Batchim.
+
+----------------------------------------
+2. BATCHIM POSITION
+----------------------------------------
+
+A Korean syllable can have:
+
+Consonant + Vowel
+
+Example: 가 = ㄱ + ㅏ
+
+Or:
+
+Consonant + Vowel + Batchim
+
+Example: 각 = ㄱ + ㅏ + ㄱ
+
+
+Compare:
+
+가 = no Batchim
+
+각 = ㄱ Batchim
+
+
+----------------------------------------
+3. BASIC BATCHIM
+----------------------------------------
+
+The 7 basic Batchim sounds are:
+
+ㄱ = k
+ㄴ = n
+ㄷ = t
+ㄹ = l
+ㅁ = m
+ㅂ = p
+ㅇ = ng
+
+
+----------------------------------------
+4. BASIC BATCHIM EXAMPLES
+----------------------------------------
+
+ㄱ → 각
+
+ㄴ → 간
+
+ㄷ → 갇
+
+ㄹ → 갈
+
+ㅁ → 감
+
+ㅂ → 갑
+
+ㅇ → 강
+
+
+----------------------------------------
+5. IMPORTANT RULE
+----------------------------------------
+
+Batchim is located at the bottom of
+the syllable block.
+
+Example:
+
+각
+ ↑
+Batchim = ㄱ
+
+
+간
+ ↑
+Batchim = ㄴ
+
+
+갈
+ ↑
+Batchim = ㄹ
+
+
+감
+ ↑
+Batchim = ㅁ
+
+
+강
+ ↑
+Batchim = ㅇ
+
+
+----------------------------------------
+6. WITHOUT BATCHIM vs WITH BATCHIM
+----------------------------------------
+
+가 = no Batchim
+각 = ㄱ Batchim
+
+나 = no Batchim
+난 = ㄴ Batchim
+
+다 = no Batchim
+달 = ㄹ Batchim
+
+마 = no Batchim
+맘 = ㅁ Batchim
+
+바 = no Batchim
+밥 = ㅂ Batchim
+
+사 = no Batchim
+상 = ㅇ Batchim
+
+
+----------------------------------------
+7. IMPORTANT BATCHIM SOUNDS
+----------------------------------------
+
+Some final consonants are pronounced
+differently from their usual beginning sound.
+
+For beginner practice, remember:
+
+ㄱ → k
+ㄴ → n
+ㄷ → t
+ㄹ → l
+ㅁ → m
+ㅂ → p
+ㅇ → ng
+
+
+----------------------------------------
+8. COMMON WORDS
+----------------------------------------
+
+한국 = Hanguk = Korea
+
+한국어 = Hangugeo = Korean language
+
+밥 = bap = rice / meal
+
+물 = mul = water
+
+집 = jip = house
+
+문 = mun = door
+
+책 = chaek = book
+
+학생 = haksaeng = student
+
+
+----------------------------------------
+9. HOW TO RECOGNIZE BATCHIM
+----------------------------------------
+
+Look at the bottom of the syllable block.
+
+Example:
+
+각 = ㄱ + ㅏ + ㄱ
+Batchim = ㄱ
+
+간 = ㄱ + ㅏ + ㄴ
+Batchim = ㄴ
+
+갈 = ㄱ + ㅏ + ㄹ
+Batchim = ㄹ
+
+감 = ㄱ + ㅏ + ㅁ
+Batchim = ㅁ
+
+갑 = ㄱ + ㅏ + ㅂ
+Batchim = ㅂ
+
+강 = ㄱ + ㅏ + ㅇ
+Batchim = ㅇ
+
+
+----------------------------------------
+10. IMPORTANT COMPARISON
+----------------------------------------
+
+가 = ㄱ + ㅏ
+= no Batchim
+
+각 = ㄱ + ㅏ + ㄱ
+= ㄱ Batchim
+
+
+----------------------------------------
+11. DAY 2 TARGET
+----------------------------------------
+
+I am  able to:
+
+[✅] Understand what Btchim means
+[✅] Recognize Batchim in a syllable
+[✅] Identify the bottom consonant
+[✅] Recognize the 7 basic Batchim sounds
+[✅] Read syllables with Batchim
+[✅] Write syllables with Batchim
+[✅] Identify the Batchim in a word
+[✅] Read basic Korean words with Batchim
+[✅] Understand the difference between 가 and 각
+[✅] Understand the difference between 나 and 난
+[✅] Type Korean words containing Batchim
