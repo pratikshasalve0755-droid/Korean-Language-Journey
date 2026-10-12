@@ -1,0 +1,182 @@
+========================================
+KOREAN LANGUAGE JOURNEY
+DAY 03 — BASIC SENTENCE STRUCTURE
+========================================
+
+GOAL:
+Understand basic Korean sentence structure
+and build simple Korean sentences.
+
+
+----------------------------------------
+1. KOREAN WORD ORDER
+----------------------------------------
+
+Korean commonly follows:
+
+Subject + Object + Verb
+
+S + O + V
+
+English:
+
+I eat rice.
+
+Korean:
+
+저는 밥을 먹어요.
+
+Jeoneun babeul meogeoyo.
+
+저는 = I
+밥을 = rice
+먹어요 = eat
+
+
+----------------------------------------
+2. VERB COMES AT THE END
+----------------------------------------
+
+This is one of the most important
+rules in basic Korean.
+
+English:
+
+I study Korean.
+
+Korean:
+
+저는 한국어를 공부해요.
+
+Jeoneun hangugeoreul gongbuhaeyo.
+
+The verb comes at the end:
+
+공부해요 = study
+
+
+----------------------------------------
+3. 은 / 는
+----------------------------------------
+
+은 / 는 marks the topic.
+
+는 is used after a vowel.
+
+나는
+저는
+친구는
+
+은 is used after a consonant.
+
+학생은
+밥은
+책은
+
+
+----------------------------------------
+4. 을 / 를
+----------------------------------------
+
+을 / 를 marks the object.
+
+를 is used after a vowel.
+
+커피를
+한국어를
+
+을 is used after a consonant.
+
+밥을
+책을
+물을
+
+
+----------------------------------------
+5. BASIC SENTENCE PATTERN
+----------------------------------------
+
+Subject + Topic + Object + Verb
+
+Example:
+
+저는 밥을 먹어요.
+
+Jeoneun babeul meogeoyo.
+
+I eat rice.
+
+
+Example:
+
+저는 물을 마셔요.
+
+Jeoneun mureul masyeoyo.
+
+I drink water.
+
+
+Example:
+
+저는 한국어를 공부해요.
+
+Jeoneun hangugeoreul gongbuhaeyo.
+
+I study Korean.
+
+
+----------------------------------------
+6. IMPORTANT EXAMPLES
+----------------------------------------
+
+나는 밥을 먹어요.
+I eat rice.
+
+저는 물을 마셔요.
+I drink water.
+
+학생은 책을 읽어요.
+The student reads a book.
+
+친구는 한국어를 공부해요.
+The friend studies Korean.
+
+
+----------------------------------------
+7. TOPIK POINT
+----------------------------------------
+
+When reading a Korean sentence,
+look for the verb first.
+
+The verb often appears at the end.
+
+Example:
+
+저는 한국어를 공부해요.
+
+Verb = 공부해요
+
+Then identify:
+
+저는 = topic
+한국어를 = object
+공부해요 = verb
+
+
+----------------------------------------
+8. DAY 3 TARGET
+----------------------------------------
+
+I should be able to:
+
+[✅] Understand SOV word order
+[✅] Understand that the verb comes at the end
+[✅] Use 은 correctly
+[✅] Use 는 correctly
+[✅] Use 을 correctly
+[✅] Use 를 correctly
+[✅] Identify topic and object
+[✅] Build simple Korean sentences
+[✅] Read simple Korean sentences
+[✅] Translate basic Korean sentences
