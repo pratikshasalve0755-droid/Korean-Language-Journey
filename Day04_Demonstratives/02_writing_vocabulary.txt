@@ -69,6 +69,7 @@ PART 4 — BUILD SENTENCES
 Translate into Korean.
 
 1. This is a book.
+->
 
 2. That is water.
 
