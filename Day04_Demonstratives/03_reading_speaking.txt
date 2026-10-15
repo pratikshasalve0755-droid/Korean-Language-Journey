@@ -27,23 +27,23 @@ Read each sentence and write its meaning.
 
 1. 이것은 책이에요.
 
-Meaning:
+Meaning: This is a Book .
 
 2. 그것은 물이에요.
 
-Meaning:
+Meaning: That is water .
 
 3. 저것은 가방이에요.
 
-Meaning:
+Meaning: That over their is a Bag .
 
 4. 이거는 뭐예요?
 
-Meaning:
+Meaning: what is this?
 
 5. 이것은 연필이에요.
 
-Meaning:
+Meaning: that over their is pencil .
 
 
 ----------------------------------------
@@ -55,23 +55,23 @@ demonstrative and the object.
 
 1. 이것은 책이에요.
 
-Demonstrative:
-Object:
+Demonstrative: 이것은
+Object: 책
 
 2. 그것은 물이에요.
 
-Demonstrative:
-Object:
+Demonstrative: 그것은
+Object: 물
 
 3. 저것은 가방이에요.
 
-Demonstrative:
-Object:
+Demonstrative: 저것은
+Object: 가방
 
 4. 이것은 연필이에요.
 
-Demonstrative:
-Object:
+Demonstrative: 이것은
+Object: 연필
 
 
 ----------------------------------------
@@ -96,11 +96,11 @@ PART 5 — MEMORY SPEAKING
 Look at the English meaning.
 Say the Korean sentence aloud.
 
-1. This is a book.
-2. That is water.
-3. That over there is a bag.
-4. What is this?
-5. This is a pencil.
+1. This is a book.             -> 이것은 첵이에요 .
+2. That is water.              -> 그갓은 물이에요 .
+3. That over there is a bag.   -> 저것은 가방예요 .
+4. What is this?               -> 이것은 뭬예요 .
+5. This is a pencil.           -> 이것은 연필이에요 .
 
 
 ----------------------------------------
@@ -124,8 +124,8 @@ Example:
 
 Write your 5 sentences:
 
-1.
-2.
+1. 저거 의자예요 .
+2. 이것은 물이에요 .
 3.
 4.
 5.
@@ -137,8 +137,8 @@ FINAL CHALLENGE
 
 Without looking at notes:
 
-[ ] Read all 8 sentences aloud.
-[ ] Explain the meaning of 이것, 그것, 저것.
-[ ] Ask "What is this?" in Korean.
-[ ] Name 5 objects in Korean.
-[ ] Create 5 original sentences.
+[✅] Read all 8 sentences aloud.
+[✅] Explain the meaning of 이것, 그것, 저것.
+[✅] Ask "What is this?" in Korean.
+[✅] Name 5 objects in Korean.
+[✅] Create 5 original sentences.

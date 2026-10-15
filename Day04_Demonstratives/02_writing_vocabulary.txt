@@ -9,17 +9,17 @@ PART 1 — WRITE EACH WORD
 
 Write each word 5 times.
 
-이것
-그것
-저것
+이것 -> 이것 , 이것 , 이것 , 이것 , 이것 .
+그것 -> 그것 , 그것 , 그것 , 그것 , 그것 .
+저것 -> 저것 , 저것 , 저것 , 저것 , 저것 .
 
-이거
-그거
-저거
+이거 -> 이거 , 이거 , 이거 , 이거 , 이거 .
+그거 -> 그거 , 그거 , 그거 , 그거 , 그거 .
+저거 -> 저거 , 저거 , 저거 , 저거 , 저걱 .
 
-이것은
-그것은
-저것은
+이것은 -> 이것은 , 이것은 , 이것은 , 이것은 , 이것은 .
+그것은 -> 그것은 , 그것은 , 그것은 , 그것은 , 그것은 .
+저것은 -> 저것은 , 저것은 , 저것은 , 저것은 , 저것은 .
 
 
 ----------------------------------------
@@ -28,16 +28,16 @@ PART 2 — VOCABULARY WRITING
 
 Write each Korean word 3 times.
 
-1. 책 = book
-2. 물 = water
-3. 가방 = bag
-4. 의자 = chair
-5. 학교 = school
-6. 연필 = pencil
-7. 핸드폰 = mobile phone
-8. 시계 = clock / watch
-9. 문 = door
-10. 책상 = desk
+1. 책 = book                   --> 책 , 책 , 책 .
+2. 물 = water                  --> 몰 , 몰 , 몰 .
+3. 가방 = bag                  --> 가방 , 가방 , 가방 .
+4. 의자 = chair                --> 의자 , 의자 , 의자 .
+5. 학교 = school               --> 학교 , 학교 , 학교 .
+6. 연필 = pencil               --> 연필 , 연필 , 연필 .
+7. 핸드폰 = mobile phone       --> 핸드폰 , 핸드폰 , 핸드폰 .
+8. 시계 = clock / watch        --> 시계 , 시계 , 시계 .
+9. 문 = door                  --> 문 , 문 , 문 .
+10. 책상 = desk                --> 챽상 , 챽상 , 챽상 .
 
 
 ----------------------------------------
@@ -46,19 +46,19 @@ PART 3 — COMPLETE THE SENTENCE
 
 Use the correct demonstrative.
 
-1. ______ 책이에요.
+1. 이것은 책이에요.
    This is a book.
 
-2. ______ 물이에요.
+2. 그것은 물이에요.
    That is water.
 
-3. ______ 가방이에요.
+3. 저것은 가방이에요.
    That over there is a bag.
 
-4. ______ 뭐예요?
+4. 이거 뭐예요?
    What is this?
 
-5. ______ 의자예요.
+5. 저것은 의자예요.
    That over there is a chair.
 
 
@@ -69,16 +69,19 @@ PART 4 — BUILD SENTENCES
 Translate into Korean.
 
 1. This is a book.
-->
+-> 이것은 책이에요 .
 
 2. That is water.
+-> 그것은 물이에요 .
 
 3. That over there is a bag.
+-> 저것은 가방이에요 .
 
 4. What is this?
+-> 이거 뭬예요 ?
 
 5. This is a pencil.
-
+-> 이것은 연필이에요 .
 
 ----------------------------------------
 PART 5 — WORD ORDER PRACTICE
@@ -86,15 +89,15 @@ PART 5 — WORD ORDER PRACTICE
 
 Arrange the words correctly.
 
-1. 책이에요 / 이것은
+1. 책이에요 / 이것은       -> 이것은 책이에요
 
-2. 물이에요 / 그것은
+2. 물이에요 / 그것은       -> 그것은 물이에요
 
-3. 저것은 / 가방이에요
+3. 저것은 / 가방이에요     -> 저것은 가방이에요
 
-4. 뭐예요 / 이거는
+4. 뭐예요 / 이거는        -> 이거는 뭐예요
 
-5. 연필이에요 / 이것은
+5. 연필이에요 / 이것은     -> 이것은
 
 
 ----------------------------------------
@@ -112,12 +115,12 @@ Use each word at least once:
 그거
 저거
 
-1.
-2.
-3.
-4.
-5.
-6.
+1. 이것은 물이에요 .
+2. 그것은 사과예요 .
+3. 그거 책에요 .
+4. 이거 뭬예요 .
+5. 저것은 학교에요 .
+6. 저거 의자예요 .
 
 
 ----------------------------------------
@@ -127,15 +130,19 @@ PART 7 — MEMORY CHALLENGE
 Without looking at your notes:
 
 1. Write the Korean word for "this thing."
+Ans: 이것은
 
 2. Write the Korean word for "that thing over there."
+Ans: 저것은
 
 3. Write the Korean word for "book."
+Ans: 책
 
 4. Write the Korean word for "pencil."
+Ans: 연필
 
 5. Write the Korean question "What is this?"
-
+Ans: 이거 뭬예요 .
 
 ----------------------------------------
 FINAL CHALLENGE
@@ -145,3 +152,22 @@ Write 10 Korean sentences using the
 demonstratives and vocabulary from Day 4.
 
 Try to write without romanization.
+1. 저거 작아요 .
+
+2. 이거 맛있어요 .
+
+3. 그것은 커요 .
+
+4. 이것은 촣아요 .
+
+5. 저거 의자에요 .
+
+6. 그거 첵이에요 .
+
+7. 이거 뭬예요 .
+
+8. 저것은  고양이에요 .
+
+9. 저거 의자예요 .
+
+10. 이것은 물이에요 .

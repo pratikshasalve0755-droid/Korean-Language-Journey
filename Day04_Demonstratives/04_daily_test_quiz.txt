@@ -10,32 +10,33 @@ PART 1 — DAILY TEST
 
 Q1. What does 이것 mean?
 
-Answer:
+Answer: this thing
 
 
 Q2. What does 그것 mean?
 
-Answer:
+Answer: that thing
 
 
 Q3. What does 저것 mean?
 
-Answer:
+Answer: that thing over their   #Correction : That thing over there
 
 
 Q4. What is the difference between 이 and 저?
 
-Answer:
+Answer: 이 = it is used when the thing is near to the speaker and 저 = it is used when the thing is far from both
+        speaker and listner
 
 
 Q5. Translate: 책
 
-Answer:
+Answer: Book
 
 
 Q6. Translate: 가방
 
-Answer:
+Answer: Bag
 
 
 Q7. Complete the sentence:
@@ -43,26 +44,26 @@ Q7. Complete the sentence:
 ______ 책이에요.
 (This is a book.)
 
-Answer:
+Answer: 이것은 책이에요.
 
 
 Q8. Translate into Korean:
 
 "What is this?"
 
-Answer:
+Answer: 이거는 뭐예요?
 
 
 Q9. Translate into English:
 
 저것은 가방이에요.
 
-Answer:
+Answer: That over there is a bag .
 
 
 Q10. Write one Korean sentence using 이것.
 
-Answer:
+Answer: 이것 맛있어요.
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -76,7 +77,7 @@ B. This thing
 C. Water
 D. Book
 
-Answer:
+Answer: B. This thing
 
 
 Q2. Choose the correct word for
@@ -87,7 +88,7 @@ B. 그것
 C. 저것
 D. 이거
 
-Answer:
+Answer: C. 저것
 
 
 Q3. What does 이거는 뭐예요? mean?
@@ -97,7 +98,7 @@ B. What is this?
 C. That is water.
 D. This is a pencil.
 
-Answer:
+Answer: B. What is this?
 
 
 Q4. Complete the sentence:
@@ -109,7 +110,7 @@ B. 먹어요
 C. 마셔요
 D. 공부해요
 
-Answer:
+Answer: A. 책이에요
 
 
 Q5. What does 책 mean?
@@ -119,7 +120,7 @@ B. Chair
 C. Book
 D. Water
 
-Answer:
+Answer: C. Book
 
 
 Q6. Which word means "pencil"?
@@ -129,7 +130,7 @@ B. 의자
 C. 가방
 D. 학교
 
-Answer:
+Answer: A. 연필
 
 
 Q7. Choose the correct translation:
@@ -141,7 +142,7 @@ B. 저것은 가방이에요.
 C. 그것은 물이에요.
 D. 이거는 뭐예요?
 
-Answer:
+Answer: B. 저것은 가방이에요.
 
 
 Q8. Which expression asks
@@ -152,7 +153,7 @@ B. 저것은 가방이에요.
 C. 이거는 뭐예요?
 D. 그것은 물이에요.
 
-Answer:
+Answer: C. 이거는 뭐예요?
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -163,27 +164,27 @@ Translate into Korean.
 
 1. This is a book.
 
-Answer:
+Answer: 이것은 책이에요.
 
 
 2. That is water.
 
-Answer:
+Answer: 그것은 물이에요.
 
 
 3. That over there is a bag.
 
-Answer:
+Answer: 저것은 가방이에요.
 
 
 4. What is this?
 
-Answer:
+Answer:이거는 뭐예요?
 
 
 5. This is a pencil.
 
-Answer:
+Answer: 이것은 연필이에요.
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -193,15 +194,15 @@ PART 4 — SENTENCE CREATION
 Create 5 original Korean sentences using
 Day 4 demonstratives.
 
-1.
+1. 이것은 물이에요 .
 
-2.
+2. 그것은 사과예요 .
 
-3.
+3. 저것은 학교에요 .       #Correction : 저것은 학교예요
 
-4.
+4. 저거 의자예요.
 
-5.
+5. 이것은 연필이에요.
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -212,47 +213,47 @@ Without looking at your notes:
 
 1. Write the Korean word for "this thing."
 
-Answer:
+Answer: 이것은         #Correction: 이것
 
 
 2. Write the Korean word for
 "that thing over there."
 
-Answer:
+Answer: 저것은
 
 
 3. Write the Korean word for "book."
 
-Answer:
+Answer: 책
 
 
 4. Write the Korean question "What is this?"
 
-Answer:
+Answer: 이거는 뭐예요?
 
 
 5. Write a Korean sentence using 저것.
 
-Answer:
+Answer: 저거 의자예요.
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SELF SCORE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Daily Test: ____ / 10
+Daily Test: 9 / 10
 
-TOPIK-Style Quiz: ____ / 8
+TOPIK-Style Quiz: 8 / 8
 
-Translation: ____ / 5
+Translation: 5 / 5
 
-Sentence Creation: ____ / 5
+Sentence Creation: 4 / 5
 
-Final Challenge: ____ / 5
+Final Challenge: 4 / 5
 
-TOTAL: ____ / 33
+TOTAL: 30 / 33
 
 Day 4 Status:
 
 [ ] Need Practice
-[ ] Passed
+[✅] Passed

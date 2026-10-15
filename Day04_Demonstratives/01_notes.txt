@@ -91,11 +91,11 @@ This is a pencil.
 6. DAY 4 TARGET
 ----------------------------------------
 
-[ ] Recognize 이것, 그것, 저것
-[ ] Recognize 이거, 그거, 저거
-[ ] Understand 이, 그, 저
-[ ] Learn the 10 vocabulary words
-[ ] Make sentences using demonstratives
-[ ] Ask 이거는 뭐예요?
-[ ] Read Korean sentences without romanization
-[ ] Complete the daily test and quiz
+[✅] Recognize 이것, 그것, 저것
+[✅] Recognize 이거, 그거, 저거
+[✅] Understand 이, 그, 저
+[✅] Learn the 10 vocabulary words
+[✅] Make sentences using demonstratives
+[✅] Ask 이거는 뭐예요?
+[✅] Read Korean sentences without romanization
+[✅] Complete the daily test and quiz
