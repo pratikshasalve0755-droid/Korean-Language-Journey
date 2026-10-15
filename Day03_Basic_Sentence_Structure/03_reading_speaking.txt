@@ -65,21 +65,21 @@ Verb:    마셔요
 
 Topic:   저는
 Object:  한국어
-Verb:
+Verb: 공부해요
 
 
 4. 학생은 책을 읽어요.
 
-Topic:
-Object:
-Verb:
+Topic: 학생은
+Object: 책을
+Verb: 읽어요
 
 
 5. 친구는 음악을 들어요.
 
-Topic:
-Object:
-Verb:
+Topic: 친구는
+Object: 음악을
+Verb: 들어요
 
 
 ----------------------------------------
